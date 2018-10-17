@@ -1,0 +1,26 @@
+{
+	"igwsc_menu_title": "自定义准备阶段状态颜色",
+	"igwsc_menu_desc": "自定义准备阶段状态信息(比如:未准备)的颜色和文字,",
+
+    "igwsc_r" : "红色数值",
+    "igwsc_r_desc" : "设置红色的数值",
+    "igwsc_g" : "绿色数值",
+    "igwsc_g_desc" : "设置绿色的数值",
+    "igwsc_b" : "蓝色数值",
+    "igwsc_b_desc" : "设置蓝色的数值",
+	
+	"igwsc_options_reset_title": "重置",
+	"igwsc_options_reset_desc": "将颜色设置恢复到默认状态",
+	
+	"dropin_text_title": "'载入中'标签文字更改",
+	"dropin_text_desc": "修改'载入中'标签的文字",
+	
+	"join_text_title": "'加入中'标签文字修改",
+	"join_text_desc": "修改'加入中'标签的文字",
+	
+	"ready_text_title": "'准备'标签文字修改",
+	"ready_text_desc": "修改'准备'标签的文字",
+	
+	"unready_text_title": "'未准备'标签文字修改",
+	"unready_text_desc": "修改'未准备'标签的文字"
+}

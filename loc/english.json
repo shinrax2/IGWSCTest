@@ -1,0 +1,26 @@
+{
+	"igwsc_menu_title": "InGame Waiting Status Color",
+	"igwsc_menu_desc": "Customize the status text's colors and status texts in the loadout screen",
+
+	"igwsc_r" : "Red",
+	"igwsc_r_desc" : "Sets red value",
+	"igwsc_g" : "Green",
+	"igwsc_g_desc" : "Sets green value",
+	"igwsc_b" : "Blue",
+	"igwsc_b_desc" : "Sets blue value", 
+	
+	"igwsc_options_reset_title": "Reset",
+	"igwsc_options_reset_desc": "Reset to default colors and default texts (Blue-JOINING, Yellow-LOADING, Green-READY and Red-NOT READY)",
+	
+	"dropin_text_title": "Set Loading text",
+	"dropin_text_desc": "Type any texts to set text for the LOADING status",
+	
+	"join_text_title": "Set Joining text",
+	"join_text_desc": "Type any texts to set text for the JOINING status",
+	
+	"ready_text_title": "Set Ready text",
+	"ready_text_desc": "Type any texts to set text for the READY status",
+	
+	"unready_text_title": "Set Not Ready text",
+	"unready_text_desc": "Type any texts to set text for the NOT READY status"
+}

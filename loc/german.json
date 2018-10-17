@@ -1,0 +1,26 @@
+{
+	"igwsc_menu_title": "InGame Waiting Status Color",
+	"igwsc_menu_desc": "Passt die Statustextfarbe und den Statustext im Ausrüstungsbildschirm an.",
+
+    "igwsc_r" : "Rot",
+    "igwsc_r_desc" : "Roten Wert einstellen",
+    "igwsc_g" : "Grün",
+    "igwsc_g_desc" : "Grünen Wert einstellen",
+    "igwsc_b" : "Blau",
+    "igwsc_b_desc" : "Blauen Wert einstellen",
+	
+	"igwsc_options_reset_title": "Zurücksetzen",
+	"igwsc_options_reset_desc": "Setzt zur Standardfarbe und Text zurück (Blau-Beitreten, Gelb-Laden, Grün-Bereit und Rot-Nicht Bereit).",
+	
+	"dropin_text_title": "Ladetext ändern",
+	"dropin_text_desc": "Hier den Text für den Ladestatus eintragen.",
+	
+	"join_text_title": "Beitrittstext ändern",
+	"join_text_desc": "Hier den Text für den Beitritsstatus eintragen.",
+	
+	"ready_text_title": "Bereit-Text ändern",
+	"ready_text_desc": "Hier den Text für den Bereitstatus eintragen.",
+	
+	"unready_text_title": "Nicht-Bereit-text ändern",
+	"unready_text_desc": "Hier den Text für den Nicht-Bereitstatus eintragen."
+}
